@@ -15,7 +15,7 @@ Step 2: Turn the prompt into an embedding
 Step 3: Get the relevant embeddings to the prompt
 Step 4: Give the relevant information to a model
 
-**Authors**
+**Authors:**
 Diego Lopez
 James Kim
 Dijonay Dawson
